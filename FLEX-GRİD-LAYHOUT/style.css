@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+    border: 1px solid grey;
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+}
+.container {
+    align-items: center;
+    width: 100%;
+    height:100vh;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+  }
+  .logo{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #7FFFD4;
+  }
+  span{
+      border: none;
+  }
+      
+
+  .menü{
+      background-color: #87CEFA;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  .banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      background-color: #FF0000;
+      height: 15%;
+  }
+  .div1{
+      height: 7%;
+
+  }
+  .div2{
+      background-color: greenyellow;
+      height: 61%;
+  }
+  .div3{
+      background-color: #FF6347;
+      height: 7%;
+
+  }
+  .b4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .b5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .b6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      background-color: #EE82EE;
+      height: 10%;
+  }
+  
+  .col-1 {
+    width: 8.333333%;
+  }
+  
+  .col-2 {
+    width: 16.666667%;
+  }
+  
+  .col-3 {
+    width: 25%;
+  }
+  
+  .col-4 {
+    width: 33.333333%;
+  }
+  
+  .col-5 {
+    width: 41.666667%;
+  }
+  
+  .col-6 {
+    width: 50%;
+  }
+  
+  .col-7 {
+    width: 58.333333%;
+  }
+  
+  .col-8 {
+    width: 66.666667%;
+  }
+  
+  .col-9 {
+    width: 75%;
+  }
+  
+  .col-10 {
+    width: 83.333333%;
+  }
+  
+  .col-11 {
+    width: 91.666667%;
+  }
+  
+  .col-12 {
+    width: 100%;
+  }
